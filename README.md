@@ -28,4 +28,8 @@ $ gradlew build
 Have an idea for an optimization, or a cool feature?
  - I'll accept most PR's
  - Let me know what you've tested / what may need further testing
- - If you need any help, create a ticket or discuss on Discord
+ - If you need any help, create a ticket or discuss on Discord\
+ 
+ 
+ ## Attention
+ We are only using the nukkit directory
